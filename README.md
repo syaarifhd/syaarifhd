@@ -1,4 +1,4 @@
-### <img src="#" width="60px"> Hi, I’m Syarif Hidayat
+### <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60px"> Hi, I’m Syarif Hidayat
 I am an Information System Student at Hasanuddin University
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Development
