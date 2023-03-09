@@ -1,4 +1,4 @@
-### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" width="60px"> Hi, I’m Syarif Hidayat
+### <img src="#" width="60px"> Hi, I’m Syarif Hidayat
 I am an Information System Student at Hasanuddin University
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Development
